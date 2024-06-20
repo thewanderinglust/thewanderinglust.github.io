@@ -2,6 +2,43 @@
       background-color: #f7d6e6;
     }
     
+    h1 {
+      text-decoration-line: underline;
+      text-decoration-color: #801f4f;
+    }
+    
+    .general-border {
+      border-style: solid;
+      border-width: medium;
+      border-color: #801f4f;
+      border-radius: 10px;
+    }
+    
+    .bio-border {
+      border-style: solid;
+      border-width: medium;
+      border-color: #801f4f;
+      border-radius: 0px 10px 10px 0px;
+    }
+    
+    .bio-image-background {
+      background-color: #e685b5;
+      border-left: solid;
+      border-bottom: solid;
+      border-top: solid;
+      border-width: medium;
+      border-color: #801f4f;
+      border-radius: 10px 0px 0px 10px;
+    }
+    
+    .card-text-height {
+      height: 215px;
+    }
+    
+    .bio-image {
+      border-radius: 10%;
+    }
+    
     .content-link:link {
       color: #3d0a91;
     }
