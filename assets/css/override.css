@@ -18,17 +18,14 @@
       border-style: solid;
       border-width: medium;
       border-color: #801f4f;
-      border-radius: 0px 10px 10px 0px;
+      border-radius: 10px;
     }
     
     .bio-image-background {
       background-color: #e685b5;
-      border-left: solid;
-      border-bottom: solid;
-      border-top: solid;
-      border-width: medium;
+      border-style: solid;
       border-color: #801f4f;
-      border-radius: 10px 0px 0px 10px;
+      border-radius: 10px;
     }
     
     .bio-image {
