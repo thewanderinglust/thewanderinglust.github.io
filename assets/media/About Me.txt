@@ -1,0 +1,9 @@
+Heya! My name is Emily, and I'm crazy about games! "Just <i>how</i> crazy are you?" I hear you ask. Well, I've been making games since I was in middle school, self-teaching myself Game Maker and dabbling in ROM hacks. As an adult, 
+I attended Rochester Institute of Technology and earned my Masters degree in Game Design and Development. At RIT, I worked on several award-winning projects and completed my thesis on the systems and interactions that designers 
+create to simulate relationship-building in video games throughout many genres in the industry. And finally, I'm so crazy about games that upon graduation I joined Oxide Games in their endeavor to create <i>Ara: History Untold</i>. I've contributed a mountain of documentation and dozens of iterations on design data based on player feedback and balancing needs. Additionally, I used my strong technical background to work directly with engineers to overhaul and improve the performance and extensibility of gameplay systems and data tooling.
+
+In my personal time, I further hone my skills in both design and programming, primarily using Unity, occasionally dabbling in Unreal, and playing nearly any game I get my hands on. My goal in life is to keep growing, keep learning, and make awesome experiences. My philosophy is that Games are worth more than the sum of their parts. They are not software, they are not stories, and they are not complex calculations carefully graphed in a series of spreadsheets. Games are an experience, and through reading, playing, and creating, I aim to become an expert at crafting experiences.
+
+I hope you enjoy a currated sampling of my best projects. If you like what you see, don't hesitate to reach out to me for any reason. I'm aways looking for the next adventure and the next summit to reach.
+
+Emily Horton 2024
